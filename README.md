@@ -1,9 +1,5 @@
 Hi there 👋
 
-
-**Sinzeta9/Sinzeta9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 -I'm sutidng DAM (Developer aplications multiplataform) and FULLSTACK
 
 - 🌱 I’m currently learning PHP,Html,Java,JS,React,Node,Python.
